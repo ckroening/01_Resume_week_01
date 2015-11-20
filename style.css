@@ -1,0 +1,24 @@
+.jumbotron {
+	font-family: georgia;
+	width: 1000px;
+}
+.container {
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left: 100px;
+	font-family: georgia;
+}
+.section {
+	width: 700px;
+	margin: 35px auto 50px;
+	border-top: 2px solid;
+}
+.company {
+	text-decoration: underline;
+}
+.date {
+	font-style: italic;
+}
+.container h6 {
+	font-style: italic;
+}
